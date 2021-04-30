@@ -9,7 +9,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 
 <https://www.udemy.com/course/50-projects-50-days/>
 
-## Day 3 / 49
+## Day 4 / 49
 
 ## Projects in course
 
@@ -18,7 +18,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 - [x] DAY 1 - Expanding cards : expanding_cards
 - [x] DAY 2 - Progress steps : progress_steps
 - [x] DAY 3 - Rotating Navigation
-- [ ] DAY 4 - Hidden Search Widget
+- [x] DAY 4 - Hidden Search Widget
 - [ ] DAY 5 - Blurry Loading
 - [ ] DAY 6 - Scroll Animation
 - [ ] DAY 7 - Split Landing Page
