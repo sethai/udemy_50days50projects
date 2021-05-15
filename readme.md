@@ -9,7 +9,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 
 <https://www.udemy.com/course/50-projects-50-days/>
 
-## Project 8 / 49
+## Project 9 / 49
 
 ## Projects in course
 
@@ -23,7 +23,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 - [x] DAY 6 - Scroll Animation
 - [x] DAY 7 - Split Landing Page
 - [x] DAY 8 - Form Wave Animation
-- [ ] DAY 9 - Sound Board
+- [x] DAY 9 - Sound Board
 - [ ] DAY 10 - Dad Jokes
 - [ ] DAY 11 - Event KeyCodes
 - [ ] DAY 12 - FAQ Collapse
