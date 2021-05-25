@@ -9,7 +9,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 
 <https://www.udemy.com/course/50-projects-50-days/>
 
-## Project 12 / 49
+## Project 13 / 49
 
 ## Projects in course
 
@@ -27,7 +27,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 - [x] DAY 10 - Dad Jokes
 - [x] DAY 11 - Event KeyCodes
 - [x] DAY 12 - FAQ Collapse
-- [ ] DAY 13 - Random Choice Picker
+- [x] DAY 13 - Random Choice Picker
 - [ ] DAY 14 - Animated Navigation
 - [ ] DAY 15 - Incrementing Counter
 - [ ] DAY 16 - Drink Water
