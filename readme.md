@@ -9,7 +9,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 
 <https://www.udemy.com/course/50-projects-50-days/>
 
-## Project 15 / 49
+## Project 16 / 49
 
 ## Projects in course
 
@@ -30,7 +30,7 @@ _Plan is to finish all day projects following the udemy course and then repeat t
 - [x] DAY 13 - Random Choice Picker
 - [x] DAY 14 - Animated Navigation
 - [x] DAY 15 - Incrementing Counter
-- [ ] DAY 16 - Drink Water
+- [x] DAY 16 - Drink Water
 - [ ] DAY 17 - Movie App
 - [ ] DAY 18 - Background Slider
 - [ ] DAY 19 - Theme Clock
